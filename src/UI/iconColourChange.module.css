@@ -1,0 +1,8 @@
+/* svg :hover {
+  fill: #c41230;
+} */
+
+.btn:hover .icon path {
+  fill: #f9f9f9;
+  transition: all 0.3s ease-in-out;
+}

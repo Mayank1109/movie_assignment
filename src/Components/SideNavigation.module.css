@@ -1,0 +1,25 @@
+.navbar__sidebar {
+  height: 100vh;
+  background-color: #2b2d2f;
+  margin: 0rem;
+  list-style: none;
+}
+
+.icon {
+  margin: 5px;
+}
+
+.navbar__sidebar button {
+  border: none;
+  margin-top: 2rem;
+  border-radius: 10px;
+
+  background-color: #2b2d2f;
+}
+
+.navbar__sidebar button:hover {
+  border: none;
+  margin-top: 2rem;
+  background-color: #9a9999;
+  transition: 0.3s all ease-in-out;
+}

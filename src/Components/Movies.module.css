@@ -1,0 +1,14 @@
+.movies_Heading {
+  margin: 1rem 3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  color: #f9f9f9;
+}
+
+.movies {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 1rem 0rem 1rem 3rem;
+  height: 39rem;
+}
